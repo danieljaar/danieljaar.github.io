@@ -14,7 +14,7 @@ redirect_from:
 
 ### Pre PhD
 
-- ["Sequential Equilibrium with Credit Constraints"](https://drive.google.com/file/d/10JyHysywV-WLlC7Mpytoe9KWLeAckf-O/view?usp=sharing).
+- ["Sequential Equilibrium with Credit Constraints"](https://drive.google.com/file/d/1AalT4dbu4QT8rsoaLTI5TS2XHaIbwNyY/view?usp=sharing).
 
 
 
