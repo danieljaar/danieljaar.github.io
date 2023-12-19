@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD student in Economics at the University of Pennsylvania. My research interests lie within macroeconomics, labor, and development. 
+Hello! I am a PhD candidate in Economics at the University of Pennsylvania. My research interests lie within macroeconomics, labor, and development. 
 
 You can reach me at djaar [at] sas.upenn.edu.
