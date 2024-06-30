@@ -11,7 +11,7 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins # DANIEL, 2024-06-30
-
+gem "jekyll-remote-theme" # DANIEL, 2024-06-30
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
