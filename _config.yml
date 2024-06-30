@@ -14,7 +14,7 @@ minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Jaar Michea"
+title                    : "Daniel Jaar Michea test2"
 title_separator          : "-"
 name                     : &name "Daniel Jaar Michea test"
 description              : &description "personal description"
