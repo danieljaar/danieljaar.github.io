@@ -9,12 +9,12 @@
 # trying to modify the website theme
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Jaar Michea"
+title                    : "Daniel Jaar"
 title_separator          : "-"
 name                     : &name "Daniel Jaar Michea"
 description              : &description "personal description"
