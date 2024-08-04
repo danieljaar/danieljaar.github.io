@@ -1,0 +1,131 @@
+
+# DOCUMENTATION HERE: https://pascalmichaillat.org/d5/
+
+
+
+baseURL: "https://danieljaar.github.io" 
+title: Daniel Jaar
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        # - name: Books
+        #   url: books/
+        #   weight: 5 
+        - name: Papers
+          url: papers/
+          weight: 2
+        # - name: Courses
+        #   url: courses/
+        #   weight: 3
+        # - name: Data
+        #   url: data/
+        #   weight: 4 
+        # - name: Blog
+        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #   weight: 6
+
+params:
+    description: "PhD candidate in Economics at the University of Pennsylvania."
+    author: Daniel Jaar
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light # light, dark or auto
+    hideFooter: true # true or false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    # MainSections: ["books","courses","papers","data"]
+    MainSections: ["courses","papers","data"]
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Daniel Jaar Michea
+          subtitle: "I am a PhD candidate in Economics at the University of Pennsylvania. My interests lie within macroeconomics, development and labor. You can reach me at: djaar@sas.upen.edu
+
+          <br/> <br/> 
+          **In 2024/2025, I will be on the academic job market.**"
+          imageUrl: "daniel-pic-cropped.png"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Daniel Jaar
+          buttons:
+            # - name: Job Market Paper
+            #   url: jmp.pdf
+            - name: Research
+              url: papers/
+            - name: CV
+              url: Djaar.pdf
+            # - name: Courses
+            #   url: courses/
+            # - name: Data
+            #   url: data/
+            # - name: Books
+            #   url: books/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+
+    socialIcons:
+        - name: Email
+          url: mailto:djaar@sas.upenn.edu
+        # - name: Zoom
+        #   url: https://www.zoom.us/my/igelfeld
+        #   url: location/
+        # - name: Office Hours
+        #   url: officehours/
+        # - name: Google Scholar
+        #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: GitHub
+          url: https://github.com/danieljaar
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+        # - name: YouTube
+        #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
+        # - name: Twitter
+        #   url: https://twitter.com/McCallSmith
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Daniel Jaar"
+      icon: /favicon-watermelon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
