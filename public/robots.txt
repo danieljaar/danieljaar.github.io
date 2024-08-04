@@ -1,8 +1,3 @@
 User-agent: *
-<<<<<<< HEAD
-Disallow: /
-Sitemap: http://localhost:1313/sitemap.xml
-=======
 Disallow:
 Sitemap: https://danieljaar.github.io/sitemap.xml
->>>>>>> c9a30488922f05f4ae7ceb071323680e048e8ec3
