@@ -117,3 +117,13 @@ params:
 
 To change the favicon, generate them from an image here: https://favicon.io/.
 For it to actually work, I had to change the default favicon in layouts/partials/head.html
+
+
+
+
+## Getting the website to appear on Google search
+
+I followed the instructions here:
+https://victor2code.github.io/blog/2019/07/04/jekyll-github-pages-appear-on-Google.html
+
+The Google Console account is daiv.jaar. 
