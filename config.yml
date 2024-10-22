@@ -61,10 +61,11 @@ params:
     profileMode:
           enabled: true
           title: Daniel Jaar Michea
-          subtitle: "I am a PhD candidate in Economics at the University of Pennsylvania. My interests lie within macroeconomics, development and labor. You can reach me at: djaar@sas.upen.edu
-
+          subtitle: "Welcome! I am a PhD candidate in Economics at the University of Pennsylvania. My interests lie within macroeconomics, development and labor. You can reach me at: djaar@sas.upen.edu
           <br/> <br/> 
-          **In 2024/2025, I will be on the academic job market.**"
+          My Job Market Paper explores the aggregate implications of microentrepreneurship substituting for the weak social safety net in developing countries.
+          <br/> <br/> 
+          **I am on the 2024-25 Academic Job Market.** "
           imageUrl: "daniel-pic-cropped.png"
           imageWidth: 160
           imageHeight: 160
@@ -75,7 +76,7 @@ params:
             - name: Research
               url: papers/
             - name: CV
-              url: DJaar.pdf
+              url: DJaar-CV.pdf
             # - name: Courses
             #   url: courses/
             # - name: Data
@@ -115,7 +116,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Daniel Jaar"
-      icon: /favicon-watermelon.ico
+      icon: /favicon-watermelon-transparent.ico
       iconHeight: 18
 
 markup:
