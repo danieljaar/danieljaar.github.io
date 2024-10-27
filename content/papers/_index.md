@@ -35,8 +35,30 @@ Developing economies have large informal sectors made up of small firms that avo
 
 Older and Wiser: Entrepreneurial Age and Development (with Alex Sawyer)
 
+<details>
+<summary style="font-size: 0.9em;">Abstract</summary>
+
+We document a novel fact about cross-country differences in entrepreneurship: richer countries have older entrepreneurs. Business owners with post-secondary education in countries at the 90th percentile of per capita GDP are, on average, 4 years older than those in countries at the 10th percentile. These result hold across education groups, industries, and are robust to controlling for differences in demographics. We calibrate a stylized OLG version of the benchmark macro-development model with financial frictions, and show that modeling financial development as a progressive relaxation of collateral constraints generates the opposite result. We are currently exploring the role that on-the-job managerial human capital accumulation can play in rationalizing these findings.
+
+</details>
+
 ---
 
+
+
+Informality and Life Cycle Wage Growth in Developing Countries, (with [César Urquizo](https://sites.google.com/view/cesarurquizo))
+
+<details>
+<summary style="font-size: 0.9em;">Abstract</summary>
+
+we explore the role played by informality in curbing life cycle wage growth in developing economies. Using repeated cross-sectional data from the Chilean and Peruvian household surveys we compute life
+cycle wage growth profiles for formal and informal workers. We find that in both Peru and Chile, there are significant differences in average wage growth by sector, of around 30 percentage points over
+the life cycle. Results holds within education groups and across industries. We wxplore how firm and worker sorting across sectors can generate these patterns through differential human capital accumulation.
+
+</details>
+
+
+---
 
 
 
