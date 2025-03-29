@@ -61,11 +61,11 @@ params:
     profileMode:
           enabled: true
           title: Daniel Jaar Michea
-          subtitle: "Welcome! I am a PhD candidate in Economics at the University of Pennsylvania. My interests lie within macroeconomics, development and labor. You can reach me at: djaar@sas.upen.edu
+          subtitle: "Welcome! I am a PhD candidate in Economics at the University of Pennsylvania.
+          <br/> <br/>
+          In Fall 2025 I will join the <b>European University Institute</b> as a Max Weber Fellow. In summer 2026 I will join <b>Pontificia Universidad Católica de Chile</b> as an Assistant Professor in Economics.  
           <br/> <br/> 
-          My Job Market Paper explores the aggregate implications of microentrepreneurship substituting for the weak social safety net in developing countries.
-          <br/> <br/> 
-          **I am on the 2024-25 Academic Job Market.** "
+          My interests lie within macroeconomics, development and labor. I'm always open to explore possible collaborations—let’s connect! You can reach me at: <b>djaar@sas.upen.edu</b>."
           imageUrl: "daniel-pic-suit.jpg"
           imageWidth: 200
           imageHeight: 200
