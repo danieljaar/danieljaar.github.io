@@ -73,8 +73,8 @@ params:
           buttons:
             - name: CV
               url: DJaar-CV.pdf
-            - name: Job Market Paper
-              url: Jaar-JMP.pdf
+            # - name: Job Market Paper
+            #   url: Jaar-JMP.pdf
             - name: Research
               url: papers/
             # - name: Courses
