@@ -23,7 +23,7 @@ This paper investigates the role of microentrepreneurship as a substitute for un
 
 
 
-<span style="color:red;">updated </span> Informality, Inflation, and Fiscal Progressivity in Developing Countries (with [Joao Ritto](https://joaoritto.github.io/), [paper](/INF2-Jaar-Ritto.pdf))
+<span style="color:red;">updated 10/2025</span> Informality, Inflation, and Fiscal Progressivity in Developing Countries (with [Joao Ritto](https://joaoritto.github.io/), [paper](/INF2-Jaar-Ritto.pdf))
 
 <details>
 <summary style="font-size: 0.9em;">Abstract</summary>
